@@ -15,7 +15,6 @@ const Card = ({name, email, id}) => {
                     <div className='flip-card-back'>
                         <h1>EMAIL</h1>
                         <p>{email}</p><br></br>
-                        <h1></h1>
                         <p></p>
                     </div>
                 </div>
