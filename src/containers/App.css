@@ -11,7 +11,14 @@
         color: #63b9b5;
     }
 
-    
+    p {
+       font-family: 'Roboto', sans-serif;
+       font-weight: 600;
+       color: whitesmoke;
+       font-style: bold;
+    }
+
+/* CardFlip Section */
 .flip-card {
     background-color: transparent;
     width: 400px;

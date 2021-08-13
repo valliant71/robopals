@@ -1,22 +1,22 @@
 import React from 'react';
-import './App.css';
+import '../containers/App.css';
 
-const Card = ({name, email, id, bio}) => {
+const Card = ({name, email, id}) => {
     return (
         <div className='code b tc bg-light-green dib br3 pa3 ma2 bw2 grow shadow-5'>
-            <div class='flip-card'>
-                <div class='flip-card-inner'>
-                    <div class='flip-card-front'>     
+            <div className='flip-card'>
+                <div className='flip-card-inner'>
+                    <div className='flip-card-front'>     
                         <img alt='robotpals' src={`https://robohash.org/${id}?200x200`} />
                         <div>
                             <h2>{name}</h2>
                         </div>             
                     </div>
-                    <div class='flip-card-back'>
+                    <div className='flip-card-back'>
                         <h1>EMAIL</h1>
                         <p>{email}</p><br></br>
-                        <h1>BIO</h1>
-                        <p>{bio}</p>
+                        <h1></h1>
+                        <p></p>
                     </div>
                 </div>
             </div>
@@ -26,3 +26,5 @@ const Card = ({name, email, id, bio}) => {
 
 
 export default Card;
+
+//TODO:Figure out why i cant connect anything other than name, email to the div
