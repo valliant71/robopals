@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robopals/static/css/main.8d29185a.chunk.css",
+    "main.js": "/robopals/static/js/main.7cdb83d7.chunk.js",
+    "main.js.map": "/robopals/static/js/main.7cdb83d7.chunk.js.map",
+    "runtime-main.js": "/robopals/static/js/runtime-main.7c443f95.js",
+    "runtime-main.js.map": "/robopals/static/js/runtime-main.7c443f95.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/robopals/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.3354db30.chunk.js": "/robopals/static/js/2.3354db30.chunk.js",
+    "static/js/2.3354db30.chunk.js.map": "/robopals/static/js/2.3354db30.chunk.js.map",
+    "static/js/3.178a6f2a.chunk.js": "/robopals/static/js/3.178a6f2a.chunk.js",
+    "static/js/3.178a6f2a.chunk.js.map": "/robopals/static/js/3.178a6f2a.chunk.js.map",
+    "index.html": "/robopals/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/robopals/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.8d29185a.chunk.css.map": "/robopals/static/css/main.8d29185a.chunk.css.map",
+    "static/js/2.3354db30.chunk.js.LICENSE.txt": "/robopals/static/js/2.3354db30.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robopals/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c443f95.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.3354db30.chunk.js",
+    "static/css/main.8d29185a.chunk.css",
+    "static/js/main.7cdb83d7.chunk.js"
+  ]
+}
